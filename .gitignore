@@ -5,6 +5,9 @@ __pycache__/
 .ipynb_checkpoints/
 # C extensions
 *.so
+*.xlsx
+*.parquet
+*.csv
 
 # Distribution / packaging
 bin/
