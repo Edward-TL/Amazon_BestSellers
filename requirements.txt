@@ -1,0 +1,9 @@
+pandas
+pyarrow
+fastparquet
+openpyxl
+beautifulsoup4
+lxml
+matplotlib
+seaborn
+plotly
